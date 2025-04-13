@@ -1,0 +1,7 @@
+{
+  "dependencies": [
+    "boost-asio",
+    "fmt",
+    "boost-static-string"
+  ]
+}

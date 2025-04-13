@@ -1,0 +1,1 @@
+project(NEOCOOP_Client VERSION 0.1.0 LANGUAGES CXX)
